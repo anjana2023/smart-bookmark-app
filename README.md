@@ -4,7 +4,7 @@ A real-time bookmark manager built using **Next.js App Router**, **Supabase**, a
 
 ##  Live Demo
 
-https://YOUR-VERCEL-URL.vercel.app  
+https://anjana-smart-bookmark-app.vercel.app/
 
 ## 📂 GitHub Repository
 
